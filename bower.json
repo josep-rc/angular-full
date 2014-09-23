@@ -2,6 +2,8 @@
   "name": "angular-full",
   "version": "1.2.25",
   "main": "./angular.js",
+  "description": "Angular with their additional modules",
+  "keywords": ["angular"],
   "dependencies": {
   }
 }
